@@ -6,7 +6,7 @@ vowels = 'aeiou'
 # take input from the user
 ip_str = input("Enter a string: ")
 
-# return lowercae string
+# return lowercase string
 ip_str = ip_str.casefold()
 
 # make a dictionary with each vowel a key and value 0
